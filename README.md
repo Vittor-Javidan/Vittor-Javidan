@@ -8,5 +8,5 @@
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img height="30" width="40" style:"border-radius: 50%; background-color: white;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
 </div>
