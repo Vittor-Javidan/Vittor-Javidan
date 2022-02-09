@@ -4,5 +4,5 @@
 </div>
 <hr>
 <div>
-  <img height="1cm" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
