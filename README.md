@@ -1,6 +1,6 @@
 <div>
-  <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=Vittor-Javidan&theme=blue-green&show_icons=true">
-  <img height="155cm" 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittor-Javidan&theme=blue-green&layout=compact">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Vittor-Javidan&theme=blue-green&show_icons=true">
+  <img height="160cm" 45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vittor-Javidan&theme=blue-green&layout=compact">
 </div>
 <hr>
 <div>
