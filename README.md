@@ -21,4 +21,6 @@
   <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<hr>
+                                                                                                                           
 ![Snake animation](https://github.com/Vittor-Javidan/Vittor-Javidan/blob/output/github-contribution-grid-snake.svg)
